@@ -24,3 +24,9 @@
   <img height="100em" src="https://github-readme-stats.vercel.app/api?username=qwerty-ctrl-gif&show_icons=true&theme=dark&rank_icon=github&count_private=true" alt="GitHub Stats"/>
   <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qwerty-ctrl-gif&layout=compact&langs_count=168&theme=dark" alt="Top Langs"/>
 </p>
+
+<p>
+      <a href="mailto:alvarodelgadoquintana@gmail.com">
+            <img src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_default_2x_r7.png"/>       
+      </a>
+</p>
