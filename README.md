@@ -29,4 +29,7 @@
       <a href="mailto:alvarodelgadoquintana@gmail.com">
             <img src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_default_2x_r7.png"/>       
       </a>
+            <a href="@alvarodelgadoquintana95">
+            <img src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_default_2x_r7.png"/>       
+      </a>
 </p>
