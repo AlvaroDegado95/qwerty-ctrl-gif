@@ -21,7 +21,7 @@
 </p>
 
 <p align="center">
-  <img height="100em" src="https://github-readme-stats.vercel.app/api?username=AlvaroDelgadoQuintanahow_icons=true&theme=dark&rank_icon=github&count_private=true" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlvaroDelgadoQuintana&show_icons=true&theme=dark&rank_icon=github&count_private=true" alt="GitHub Stats"/>
   <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlvaroDelgadoQuintana&layout=compact&langs_count=168&theme=dark" alt="Top Langs"/>
 </p>
 
